@@ -27,3 +27,9 @@ var myVar = "Hello, world!";
 ```math
 \left( \sum a = 1 \right)
 ```
+
+## to do list
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
