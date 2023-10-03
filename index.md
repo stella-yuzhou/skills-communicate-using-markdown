@@ -18,6 +18,12 @@ $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
 
-``` javascript
+```javascript
 var myVar = "Hello, world!";
+```
+
+## The Cauchy-Schwarz Inequality using math
+
+```math
+\left( \sum a = 1)
 ```
