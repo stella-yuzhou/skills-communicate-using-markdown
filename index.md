@@ -25,5 +25,5 @@ var myVar = "Hello, world!";
 ## The Cauchy-Schwarz Inequality using math
 
 ```math
-\left( \sum a = 1)
+\left( \sum a = 1 \right)
 ```
